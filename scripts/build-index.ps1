@@ -31,18 +31,18 @@ foreach ($file in $cityFiles) {
     }
 
     $cities += [ordered]@{
-        city_code = [string]$obj.city_code
-        city_name = [string]$obj.city_name
-        file = "/data/city/$($file.Name)"
+        city_code         = [string]$obj.city_code
+        city_name         = [string]$obj.city_name
+        file              = "/data/city/$($file.Name)"
         admin_units_count = @($obj.admin_units).Count
     }
 }
 
 $indexObj = [ordered]@{
-    version = 1
+    version      = 1
     country_code = "VN"
     total_cities = $cities.Count
-    cities = $cities
+    cities       = $cities
 }
 
 $json = $indexObj | ConvertTo-Json -Depth 8
