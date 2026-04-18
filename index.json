@@ -1,13 +1,19 @@
 ﻿{
     "version":  1,
     "country_code":  "VN",
-    "total_cities":  2,
+    "total_cities":  3,
     "cities":  [
                    {
                        "city_code":  "001",
                        "city_name":  "Hà Nội",
                        "file":  "/data/city/001.json",
                        "admin_units_count":  126
+                   },
+                   {
+                       "city_code":  "048",
+                       "city_name":  "Đà Nẵng",
+                       "file":  "/data/city/048.json",
+                       "admin_units_count":  94
                    },
                    {
                        "city_code":  "079",
