@@ -1,0 +1,334 @@
+﻿{
+    "city_code": "56",
+    "city_name":  "Tỉnh Khánh Hòa",
+    "country_code":  "VN",
+    "admin_units":  [
+                        {
+                            "name":  "Phường Bắc Nha Trang",
+                            "code":  "22333",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Nha Trang",
+                            "code":  "22366",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Tây Nha Trang",
+                            "code":  "22390",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Nam Nha Trang",
+                            "code":  "22402",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Bắc Cam Ranh",
+                            "code":  "22411",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Cam Ranh",
+                            "code":  "22420",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Ba Ngòi",
+                            "code":  "22423",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Cam Linh",
+                            "code":  "22432",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Cam Hiệp",
+                            "code":  "22435",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Cam Lâm",
+                            "code":  "22453",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Cam An",
+                            "code":  "22465",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Nam Cam Ranh",
+                            "code":  "22480",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Vạn Ninh",
+                            "code":  "22489",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Tu Bông",
+                            "code":  "22498",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đại Lãnh",
+                            "code":  "22504",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Vạn Thắng",
+                            "code":  "22516",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Vạn Hưng",
+                            "code":  "22525",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Phường Ninh Hòa",
+                            "code":  "22528",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Bắc Ninh Hòa",
+                            "code":  "22546",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Tây Ninh Hòa",
+                            "code":  "22552",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Hòa Trí",
+                            "code":  "22558",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Phường Đông Ninh Hòa",
+                            "code":  "22561",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Tân Định",
+                            "code":  "22576",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Phường Hòa Thắng",
+                            "code":  "22591",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Nam Ninh Hòa",
+                            "code":  "22597",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Khánh Vĩnh",
+                            "code":  "22609",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Trung Khánh Vĩnh",
+                            "code":  "22612",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Bắc Khánh Vĩnh",
+                            "code":  "22615",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Tây Khánh Vĩnh",
+                            "code":  "22624",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Nam Khánh Vĩnh",
+                            "code":  "22648",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Diên Khánh",
+                            "code":  "22651",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Diên Điền",
+                            "code":  "22657",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Diên Lâm",
+                            "code":  "22660",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Diên Thọ",
+                            "code":  "22672",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Diên Lạc",
+                            "code":  "22678",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Suối Hiệp",
+                            "code":  "22702",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Suối Dầu",
+                            "code":  "22708",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Khánh Sơn",
+                            "code":  "22714",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Tây Khánh Sơn",
+                            "code":  "22720",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đông Khánh Sơn",
+                            "code":  "22732",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Đặc khu Trường Sa",
+                            "code":  "22736",
+                            "level":  "Đặc khu"
+                        },
+                        {
+                            "name":  "Phường Đô Vinh",
+                            "code":  "22738",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Bảo An",
+                            "code":  "22741",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Phan Rang",
+                            "code":  "22759",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Đông Hải",
+                            "code":  "22780",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Bác Ái Tây",
+                            "code":  "22786",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Bác Ái",
+                            "code":  "22795",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Bác Ái Đông",
+                            "code":  "22801",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ninh Sơn",
+                            "code":  "22810",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Lâm Sơn",
+                            "code":  "22813",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Mỹ Sơn",
+                            "code":  "22822",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Anh Dũng",
+                            "code":  "22828",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Phường Ninh Chử",
+                            "code":  "22834",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Công Hải",
+                            "code":  "22840",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Vĩnh Hải",
+                            "code":  "22846",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Thuận Bắc",
+                            "code":  "22849",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ninh Hải",
+                            "code":  "22852",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Xuân Hải",
+                            "code":  "22861",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ninh Phước",
+                            "code":  "22870",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Phước Hậu",
+                            "code":  "22873",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Phước Dinh",
+                            "code":  "22888",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Phước Hữu",
+                            "code":  "22891",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Thuận Nam",
+                            "code":  "22897",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Phước Hà",
+                            "code":  "22900",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Cà Ná",
+                            "code":  "22909",
+                            "level":  "Xã"
+                        }
+                    ]
+}
+
+

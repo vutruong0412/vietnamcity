@@ -1,0 +1,209 @@
+﻿{
+    "city_code": "46",
+    "city_name":  "Thành phố Huế",
+    "country_code":  "VN",
+    "admin_units":  [
+                        {
+                            "name":  "Phường Phú Xuân",
+                            "code":  "19753",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Kim Long",
+                            "code":  "19774",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Vỹ Dạ",
+                            "code":  "19777",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Thuận Hóa",
+                            "code":  "19789",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Hương An",
+                            "code":  "19804",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Thủy Xuân",
+                            "code":  "19813",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường An Cựu",
+                            "code":  "19815",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Phong Điền",
+                            "code":  "19819",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Phong Phú",
+                            "code":  "19828",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Phong Dinh",
+                            "code":  "19831",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Phong Thái",
+                            "code":  "19858",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Quảng Điền",
+                            "code":  "19867",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Phường Phong Quảng",
+                            "code":  "19873",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Đan Điền",
+                            "code":  "19885",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Phường Thuận An",
+                            "code":  "19900",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Dương Nỗ",
+                            "code":  "19909",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Phú Hồ",
+                            "code":  "19918",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Phường Mỹ Thượng",
+                            "code":  "19930",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Phú Vang",
+                            "code":  "19942",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Phú Vinh",
+                            "code":  "19945",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Phường Phú Bài",
+                            "code":  "19960",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Thanh Thủy",
+                            "code":  "19969",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Hương Thủy",
+                            "code":  "19975",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Hương Trà",
+                            "code":  "19996",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Hóa Châu",
+                            "code":  "20014",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Kim Trà",
+                            "code":  "20017",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Bình Điền",
+                            "code":  "20035",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã A Lưới 2",
+                            "code":  "20044",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã A Lưới 5",
+                            "code":  "20050",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã A Lưới 1",
+                            "code":  "20056",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã A Lưới 3",
+                            "code":  "20071",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã A Lưới 4",
+                            "code":  "20101",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Phú Lộc",
+                            "code":  "20107",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Vinh Lộc",
+                            "code":  "20122",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Hưng Lộc",
+                            "code":  "20131",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Chân Mây - Lăng Cô",
+                            "code":  "20137",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Lộc An",
+                            "code":  "20140",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Khe Tre",
+                            "code":  "20161",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Nam Đông",
+                            "code":  "20179",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Long Quảng",
+                            "code":  "20182",
+                            "level":  "Xã"
+                        }
+                    ]
+}
+
+

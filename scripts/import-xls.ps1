@@ -7,29 +7,29 @@ Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 
 $map = [ordered]@{
-    "DongNai"    = @{ code = "075"; name = "Dong Nai" }
-    "DongThap"   = @{ code = "082"; name = "Dong Thap" }
-    "GiaLai"     = @{ code = "052"; name = "Gia Lai" }
-    "HaiPhong"   = @{ code = "031"; name = "Hai Phong" }
-    "HaTinh"     = @{ code = "042"; name = "Ha Tinh" }
-    "HungYen"    = @{ code = "033"; name = "Hung Yen" }
-    "KhanhHoa"   = @{ code = "056"; name = "Khanh Hoa" }
-    "LaiChau"    = @{ code = "012"; name = "Lai Chau" }
-    "LamDong"    = @{ code = "068"; name = "Lam Dong" }
-    "LangSon"    = @{ code = "020"; name = "Lang Son" }
-    "LaoCai"     = @{ code = "015"; name = "Lao Cai" }
-    "NgheAn"     = @{ code = "040"; name = "Nghe An" }
-    "NinhBinh"   = @{ code = "037"; name = "Ninh Binh" }
-    "PhuTho"     = @{ code = "025"; name = "Phu Tho" }
-    "QuangNgai"  = @{ code = "051"; name = "Quang Ngai" }
-    "QuangNinh"  = @{ code = "022"; name = "Quang Ninh" }
-    "QuangTri"   = @{ code = "044"; name = "Quang Tri" }
-    "SonLa"      = @{ code = "014"; name = "Sơn La" }
-    "TayNinh"    = @{ code = "080"; name = "Tay Ninh" }
-    "ThanhHoa"   = @{ code = "038"; name = "Thanh Hoa" }
-    "TPHue"      = @{ code = "046"; name = "Hue" }
-    "TuyenQuang" = @{ code = "008"; name = "Tuyen Quang" }
-    "VinhLong"   = @{ code = "086"; name = "Vinh Long" }
+    "DongNai"    = @{ code = "75"; name = "Dong Nai" }
+    "DongThap"   = @{ code = "82"; name = "Dong Thap" }
+    "GiaLai"     = @{ code = "52"; name = "Gia Lai" }
+    "HaiPhong"   = @{ code = "31"; name = "Hai Phong" }
+    "HaTinh"     = @{ code = "42"; name = "Ha Tinh" }
+    "HungYen"    = @{ code = "33"; name = "Hung Yen" }
+    "KhanhHoa"   = @{ code = "56"; name = "Khanh Hoa" }
+    "LaiChau"    = @{ code = "12"; name = "Lai Chau" }
+    "LamDong"    = @{ code = "68"; name = "Lam Dong" }
+    "LangSon"    = @{ code = "20"; name = "Lang Son" }
+    "LaoCai"     = @{ code = "15"; name = "Lao Cai" }
+    "NgheAn"     = @{ code = "40"; name = "Nghe An" }
+    "NinhBinh"   = @{ code = "37"; name = "Ninh Binh" }
+    "PhuTho"     = @{ code = "25"; name = "Phu Tho" }
+    "QuangNgai"  = @{ code = "51"; name = "Quang Ngai" }
+    "QuangNinh"  = @{ code = "22"; name = "Quang Ninh" }
+    "QuangTri"   = @{ code = "44"; name = "Quang Tri" }
+    "SonLa"      = @{ code = "14"; name = "Sơn La" }
+    "TayNinh"    = @{ code = "80"; name = "Tay Ninh" }
+    "ThanhHoa"   = @{ code = "38"; name = "Thanh Hoa" }
+    "TPHue"      = @{ code = "46"; name = "Hue" }
+    "TuyenQuang" = @{ code = "08"; name = "Tuyen Quang" }
+    "VinhLong"   = @{ code = "86"; name = "Vinh Long" }
 }
 
 $excel = New-Object -ComObject Excel.Application

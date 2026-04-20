@@ -19,12 +19,12 @@
   - Provinces: "Tỉnh ..."
   - Centrally governed cities: "Thành phố ..."
 - Migrated old city codes to latest codes from master list:
-  - 010 -> 015 (Lào Cai)
-  - 045 -> 044 (Quảng Trị)
-  - 064 -> 052 (Gia Lai)
-  - 072 -> 080 (Tây Ninh)
-  - 087 -> 082 (Đồng Tháp)
-  - 089 -> 091 (An Giang)
+  - 10 -> 15 (Lào Cai)
+  - 45 -> 44 (Quảng Trị)
+  - 64 -> 52 (Gia Lai)
+  - 72 -> 80 (Tây Ninh)
+  - 87 -> 82 (Đồng Tháp)
+  - 89 -> 91 (An Giang)
 - Reordered index.json city list per custom rule:
   - Priority first: 001 (Hà Nội), 079 (Hồ Chí Minh), 048 (Đà Nẵng), 092 (Cần Thơ), 031 (Hải Phòng), 046 (Huế)
   - Remaining entries sorted by city_code ascending.
@@ -62,12 +62,13 @@
 ## Verification Checklist
 - index.json total_cities matches number of files in data/city.
 - Priority city order in index.json is correct (001, 079, 048, 092, 031, 046).
+- Priority city order in index.json is correct (01, 79, 48, 92, 31, 46).
 - Remaining city entries are sorted by city_code ascending.
 - city_name values are synced from DanhsachTinhThanhpho.xls.
 - Latest migrated code files exist:
-  - data/city/015.json
-  - data/city/044.json
-  - data/city/052.json
-  - data/city/080.json
-  - data/city/082.json
-  - data/city/091.json
+  - data/city/15.json
+  - data/city/44.json
+  - data/city/52.json
+  - data/city/80.json
+  - data/city/82.json
+  - data/city/91.json

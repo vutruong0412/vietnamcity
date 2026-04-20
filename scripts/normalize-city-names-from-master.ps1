@@ -20,6 +20,25 @@ $excel.DisplayAlerts = $false
 
 $codeToName = @{}
 
+function Convert-ToNormalizedCityCode {
+    param([string]$digits)
+
+    $clean = ("" + $digits).Trim() -replace "[^0-9]", ""
+    if ([string]::IsNullOrWhiteSpace($clean)) {
+        return ""
+    }
+
+    if ($clean.Length -eq 3 -and $clean.StartsWith("0")) {
+        $clean = $clean.Substring(1)
+    }
+
+    if ($clean.Length -eq 1) {
+        return $clean.PadLeft(2, '0')
+    }
+
+    return $clean
+}
+
 try {
     $wb = $excel.Workbooks.Open($MasterFile)
     $ws = $wb.Worksheets.Item(1)
@@ -35,7 +54,7 @@ try {
 
         $digits = ($codeRaw -replace "[^0-9]", "")
         if (-not [string]::IsNullOrWhiteSpace($digits) -and -not [string]::IsNullOrWhiteSpace($name)) {
-            $code = $digits.PadLeft(3, '0')
+            $code = Convert-ToNormalizedCityCode $digits
             $codeToName[$code] = $name
         }
 
@@ -67,7 +86,7 @@ Get-ChildItem -Path $CityDir -Filter "*.json" -File | ForEach-Object {
         return
     }
 
-    $code = $codeMatch.Groups[1].Value
+    $code = Convert-ToNormalizedCityCode $codeMatch.Groups[1].Value
     if (-not $codeToName.ContainsKey($code)) {
         Write-Output ("SKIP_NO_MASTER`t{0}`t{1}" -f $_.Name, $code)
         $skipped++
