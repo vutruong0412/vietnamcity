@@ -1,0 +1,488 @@
+﻿{
+    "city_code":  "051",
+    "city_name":  "Tỉnh Quảng Ngãi",
+    "country_code":  "VN",
+    "admin_units":  [
+                        {
+                            "name":  "Phường Cẩm Thành",
+                            "code":  "21025",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Nghĩa Lộ",
+                            "code":  "21028",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã An Phú",
+                            "code":  "21034",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Bình Sơn",
+                            "code":  "21040",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Vạn Tường",
+                            "code":  "21061",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Bình Minh",
+                            "code":  "21085",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Bình Chương",
+                            "code":  "21100",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đông Sơn",
+                            "code":  "21109",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Trà Bồng",
+                            "code":  "21115",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Thanh Bồng",
+                            "code":  "21124",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đông Trà Bồng",
+                            "code":  "21127",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Cà Đam",
+                            "code":  "21136",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Tây Trà",
+                            "code":  "21154",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Tây Trà Bồng",
+                            "code":  "21157",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Phường Trương Quang Trọng",
+                            "code":  "21172",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Thọ Phong",
+                            "code":  "21181",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Trường Giang",
+                            "code":  "21196",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ba Gia",
+                            "code":  "21205",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Tịnh Khê",
+                            "code":  "21211",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Sơn Tịnh",
+                            "code":  "21220",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Tư Nghĩa",
+                            "code":  "21235",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Vệ Giang",
+                            "code":  "21238",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Trà Giang",
+                            "code":  "21244",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Nghĩa Giang",
+                            "code":  "21250",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Sơn Hà",
+                            "code":  "21289",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Sơn Hạ",
+                            "code":  "21292",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Sơn Linh",
+                            "code":  "21307",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Sơn Thủy",
+                            "code":  "21319",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Sơn Kỳ",
+                            "code":  "21325",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Sơn Tây Thượng",
+                            "code":  "21334",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Sơn Tây",
+                            "code":  "21340",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Sơn Tây Hạ",
+                            "code":  "21343",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Sơn Mai",
+                            "code":  "21349",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Minh Long",
+                            "code":  "21361",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Nghĩa Hành",
+                            "code":  "21364",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Phước Giang",
+                            "code":  "21370",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đình Cương",
+                            "code":  "21385",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Thiện Tín",
+                            "code":  "21388",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Mộ Đức",
+                            "code":  "21400",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Long Phụng",
+                            "code":  "21409",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Mỏ Cày",
+                            "code":  "21421",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Lân Phong",
+                            "code":  "21433",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Phường Đức Phổ",
+                            "code":  "21439",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Trà Câu",
+                            "code":  "21451",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Nguyễn Nghiêm",
+                            "code":  "21457",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Khánh Cường",
+                            "code":  "21472",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Phường Sa Huỳnh",
+                            "code":  "21478",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Ba Tơ",
+                            "code":  "21484",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ba Vinh",
+                            "code":  "21490",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ba Động",
+                            "code":  "21496",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ba Dinh",
+                            "code":  "21499",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đặng Thùy Trâm",
+                            "code":  "21520",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ba Tô",
+                            "code":  "21523",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ba Vì",
+                            "code":  "21529",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ba Xa",
+                            "code":  "21538",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Đặc khu Lý Sơn",
+                            "code":  "21548",
+                            "level":  "Đặc khu"
+                        },
+                        {
+                            "name":  "Phường Đăk Cấm",
+                            "code":  "23284",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Kon Tum",
+                            "code":  "23293",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Đăk Bla",
+                            "code":  "23302",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Ngọk Bay",
+                            "code":  "23317",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ia Chim",
+                            "code":  "23326",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đăk Rơ Wa",
+                            "code":  "23332",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đăk Pék",
+                            "code":  "23341",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đăk Plô",
+                            "code":  "23344",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Xốp",
+                            "code":  "23356",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ngọc Linh",
+                            "code":  "23365",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đăk Long",
+                            "code":  "23368",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đăk Môn",
+                            "code":  "23374",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Bờ Y",
+                            "code":  "23377",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Dục Nông",
+                            "code":  "23383",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Sa Loong",
+                            "code":  "23392",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đăk Tô",
+                            "code":  "23401",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đăk Sao",
+                            "code":  "23416",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đăk Tờ Kan",
+                            "code":  "23419",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Tu Mơ Rông",
+                            "code":  "23425",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ngọk Tụ",
+                            "code":  "23428",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Kon Đào",
+                            "code":  "23430",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Măng Ri",
+                            "code":  "23446",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Măng Bút",
+                            "code":  "23455",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Măng Đen",
+                            "code":  "23473",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Kon Plông",
+                            "code":  "23476",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đăk Rve",
+                            "code":  "23479",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đăk Kôi",
+                            "code":  "23485",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Kon Braih",
+                            "code":  "23497",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đăk Hà",
+                            "code":  "23500",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đăk Pxi",
+                            "code":  "23504",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đăk Ui",
+                            "code":  "23510",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đăk Mar",
+                            "code":  "23512",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ngọk Réo",
+                            "code":  "23515",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Sa Thầy",
+                            "code":  "23527",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Rờ Kơi",
+                            "code":  "23530",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Sa Bình",
+                            "code":  "23534",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ia Đal",
+                            "code":  "23535",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Mô Rai",
+                            "code":  "23536",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ia Tơi",
+                            "code":  "23538",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ya Ly",
+                            "code":  "23548",
+                            "level":  "Xã"
+                        }
+                    ]
+}
+

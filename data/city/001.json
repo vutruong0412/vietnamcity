@@ -1,6 +1,6 @@
-{
+﻿{
 	"city_code": "001",
-	"city_name": "Hà Nội",
+	"city_name":  "Thành phố Hà Nội",
 	"country_code": "VN",
 	"admin_units": [
 		{ "name": "Phường Ba Đình", "code": "00004", "level": "Phường" },
@@ -131,3 +131,4 @@
 		{ "name": "Xã Hương Sơn", "code": "10489", "level": "Xã" }
 	]
 }
+

@@ -1,0 +1,278 @@
+﻿{
+    "city_code":  "022",
+    "city_name":  "Tỉnh Quảng Ninh",
+    "country_code":  "VN",
+    "admin_units":  [
+                        {
+                            "name":  "Phường Hà Tu",
+                            "code":  "06652",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Cao Xanh",
+                            "code":  "06658",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Việt Hưng",
+                            "code":  "06661",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Bãi Cháy",
+                            "code":  "06673",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Hà Lầm",
+                            "code":  "06676",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Hồng Gai",
+                            "code":  "06685",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Hạ Long",
+                            "code":  "06688",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Tuần Châu",
+                            "code":  "06706",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Móng Cái 2",
+                            "code":  "06709",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Móng Cái 1",
+                            "code":  "06712",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Hải Sơn",
+                            "code":  "06724",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Hải Ninh",
+                            "code":  "06733",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Phường Móng Cái 3",
+                            "code":  "06736",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Vĩnh Thực",
+                            "code":  "06757",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Phường Mông Dương",
+                            "code":  "06760",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Quang Hanh",
+                            "code":  "06778",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Cửa Ông",
+                            "code":  "06781",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Cẩm Phả",
+                            "code":  "06793",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Hải Hòa",
+                            "code":  "06799",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Phường Uông Bí",
+                            "code":  "06811",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Vàng Danh",
+                            "code":  "06820",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Yên Tử",
+                            "code":  "06832",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Bình Liêu",
+                            "code":  "06838",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Hoành Mô",
+                            "code":  "06841",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Lục Hồn",
+                            "code":  "06856",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Tiên Yên",
+                            "code":  "06862",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Điền Xá",
+                            "code":  "06874",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đông Ngũ",
+                            "code":  "06877",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Hải Lạng",
+                            "code":  "06886",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đầm Hà",
+                            "code":  "06895",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Quảng Tân",
+                            "code":  "06913",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Quảng Hà",
+                            "code":  "06922",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Quảng Đức",
+                            "code":  "06931",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Đường Hoa",
+                            "code":  "06946",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Cái Chiên",
+                            "code":  "06967",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Ba Chẽ",
+                            "code":  "06970",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Kỳ Thượng",
+                            "code":  "06979",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Lương Minh",
+                            "code":  "06985",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Đặc khu Vân Đồn",
+                            "code":  "06994",
+                            "level":  "Đặc khu"
+                        },
+                        {
+                            "name":  "Phường Hoành Bồ",
+                            "code":  "07030",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Xã Quảng La",
+                            "code":  "07054",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Xã Thống Nhất",
+                            "code":  "07060",
+                            "level":  "Xã"
+                        },
+                        {
+                            "name":  "Phường Mạo Khê",
+                            "code":  "07069",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Bình Khê",
+                            "code":  "07081",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường An Sinh",
+                            "code":  "07090",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Đông Triều",
+                            "code":  "07093",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Hoàng Quế",
+                            "code":  "07114",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Quảng Yên",
+                            "code":  "07132",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Đông Mai",
+                            "code":  "07135",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Hiệp Hòa",
+                            "code":  "07147",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Hà An",
+                            "code":  "07168",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Liên Hòa",
+                            "code":  "07180",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Phường Phong Cốc",
+                            "code":  "07183",
+                            "level":  "Phường"
+                        },
+                        {
+                            "name":  "Đặc khu Cô Tô",
+                            "code":  "07192",
+                            "level":  "Đặc khu"
+                        }
+                    ]
+}
+

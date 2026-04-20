@@ -1,6 +1,6 @@
-{
+﻿{
 	"city_code": "048",
-	"city_name": "Đà Nẵng",
+	"city_name":  "Thành phố Đà Nẵng",
 	"country_code": "VN",
 	"admin_units": [
 		{ "name": "Phường Hải Vân", "code": "20194", "level": "Phường" },
@@ -99,3 +99,4 @@
 		{ "name": "Xã Tam Mỹ", "code": "21004", "level": "Xã" }
 	]
 }
+

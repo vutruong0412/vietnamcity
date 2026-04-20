@@ -1,25 +1,211 @@
 ﻿{
     "version":  1,
     "country_code":  "VN",
-    "total_cities":  3,
+    "total_cities":  34,
     "cities":  [
                    {
                        "city_code":  "001",
-                       "city_name":  "Hà Nội",
+                       "city_name":  "Thành phố Hà Nội",
                        "file":  "/data/city/001.json",
                        "admin_units_count":  126
                    },
                    {
+                       "city_code":  "079",
+                       "city_name":  "Thành phố Hồ Chí Minh",
+                       "file":  "/data/city/079.json",
+                       "admin_units_count":  168
+                   },
+                   {
                        "city_code":  "048",
-                       "city_name":  "Đà Nẵng",
+                       "city_name":  "Thành phố Đà Nẵng",
                        "file":  "/data/city/048.json",
                        "admin_units_count":  94
                    },
                    {
-                       "city_code":  "079",
-                       "city_name":  "Hồ Chí Minh",
-                       "file":  "/data/city/079.json",
-                       "admin_units_count":  168
+                       "city_code":  "092",
+                       "city_name":  "Thành phố Cần Thơ",
+                       "file":  "/data/city/092.json",
+                       "admin_units_count":  103
+                   },
+                   {
+                       "city_code":  "031",
+                       "city_name":  "Thành phố Hải Phòng",
+                       "file":  "/data/city/031.json",
+                       "admin_units_count":  114
+                   },
+                   {
+                       "city_code":  "046",
+                       "city_name":  "Thành phố Huế",
+                       "file":  "/data/city/046.json",
+                       "admin_units_count":  40
+                   },
+                   {
+                       "city_code":  "004",
+                       "city_name":  "Tỉnh Cao Bằng",
+                       "file":  "/data/city/004.json",
+                       "admin_units_count":  56
+                   },
+                   {
+                       "city_code":  "008",
+                       "city_name":  "Tỉnh Tuyên Quang",
+                       "file":  "/data/city/008.json",
+                       "admin_units_count":  124
+                   },
+                   {
+                       "city_code":  "011",
+                       "city_name":  "Tỉnh Điện Biên",
+                       "file":  "/data/city/011.json",
+                       "admin_units_count":  45
+                   },
+                   {
+                       "city_code":  "012",
+                       "city_name":  "Tỉnh Lai Châu",
+                       "file":  "/data/city/012.json",
+                       "admin_units_count":  38
+                   },
+                   {
+                       "city_code":  "014",
+                       "city_name":  "Tỉnh Sơn La",
+                       "file":  "/data/city/014.json",
+                       "admin_units_count":  75
+                   },
+                   {
+                       "city_code":  "015",
+                       "city_name":  "Tỉnh Lào Cai",
+                       "file":  "/data/city/015.json",
+                       "admin_units_count":  99
+                   },
+                   {
+                       "city_code":  "019",
+                       "city_name":  "Tỉnh Thái Nguyên",
+                       "file":  "/data/city/019.json",
+                       "admin_units_count":  92
+                   },
+                   {
+                       "city_code":  "020",
+                       "city_name":  "Tỉnh Lạng Sơn",
+                       "file":  "/data/city/020.json",
+                       "admin_units_count":  65
+                   },
+                   {
+                       "city_code":  "022",
+                       "city_name":  "Tỉnh Quảng Ninh",
+                       "file":  "/data/city/022.json",
+                       "admin_units_count":  54
+                   },
+                   {
+                       "city_code":  "024",
+                       "city_name":  "Tỉnh Bắc Ninh",
+                       "file":  "/data/city/024.json",
+                       "admin_units_count":  99
+                   },
+                   {
+                       "city_code":  "025",
+                       "city_name":  "Tỉnh Phú Thọ",
+                       "file":  "/data/city/025.json",
+                       "admin_units_count":  148
+                   },
+                   {
+                       "city_code":  "033",
+                       "city_name":  "Tỉnh Hưng Yên",
+                       "file":  "/data/city/033.json",
+                       "admin_units_count":  104
+                   },
+                   {
+                       "city_code":  "037",
+                       "city_name":  "Tỉnh Ninh Bình",
+                       "file":  "/data/city/037.json",
+                       "admin_units_count":  129
+                   },
+                   {
+                       "city_code":  "038",
+                       "city_name":  "Tỉnh Thanh Hóa",
+                       "file":  "/data/city/038.json",
+                       "admin_units_count":  166
+                   },
+                   {
+                       "city_code":  "040",
+                       "city_name":  "Tỉnh Nghệ An",
+                       "file":  "/data/city/040.json",
+                       "admin_units_count":  130
+                   },
+                   {
+                       "city_code":  "042",
+                       "city_name":  "Tỉnh Hà Tĩnh",
+                       "file":  "/data/city/042.json",
+                       "admin_units_count":  69
+                   },
+                   {
+                       "city_code":  "044",
+                       "city_name":  "Tỉnh Quảng Trị",
+                       "file":  "/data/city/044.json",
+                       "admin_units_count":  78
+                   },
+                   {
+                       "city_code":  "051",
+                       "city_name":  "Tỉnh Quảng Ngãi",
+                       "file":  "/data/city/051.json",
+                       "admin_units_count":  96
+                   },
+                   {
+                       "city_code":  "052",
+                       "city_name":  "Tỉnh Gia Lai",
+                       "file":  "/data/city/052.json",
+                       "admin_units_count":  135
+                   },
+                   {
+                       "city_code":  "056",
+                       "city_name":  "Tỉnh Khánh Hòa",
+                       "file":  "/data/city/056.json",
+                       "admin_units_count":  65
+                   },
+                   {
+                       "city_code":  "066",
+                       "city_name":  "Tỉnh Đắk Lắk",
+                       "file":  "/data/city/066.json",
+                       "admin_units_count":  102
+                   },
+                   {
+                       "city_code":  "068",
+                       "city_name":  "Tỉnh Lâm Đồng",
+                       "file":  "/data/city/068.json",
+                       "admin_units_count":  124
+                   },
+                   {
+                       "city_code":  "075",
+                       "city_name":  "Tỉnh Đồng Nai",
+                       "file":  "/data/city/075.json",
+                       "admin_units_count":  95
+                   },
+                   {
+                       "city_code":  "080",
+                       "city_name":  "Tỉnh Tây Ninh",
+                       "file":  "/data/city/080.json",
+                       "admin_units_count":  96
+                   },
+                   {
+                       "city_code":  "082",
+                       "city_name":  "Tỉnh Đồng Tháp",
+                       "file":  "/data/city/082.json",
+                       "admin_units_count":  102
+                   },
+                   {
+                       "city_code":  "086",
+                       "city_name":  "Tỉnh Vĩnh Long",
+                       "file":  "/data/city/086.json",
+                       "admin_units_count":  124
+                   },
+                   {
+                       "city_code":  "091",
+                       "city_name":  "Tỉnh An Giang",
+                       "file":  "/data/city/091.json",
+                       "admin_units_count":  102
+                   },
+                   {
+                       "city_code":  "096",
+                       "city_name":  "Tỉnh Cà Mau",
+                       "file":  "/data/city/096.json",
+                       "admin_units_count":  64
                    }
                ]
 }

@@ -1,6 +1,6 @@
-{
+﻿{
 	"city_code": "079",
-	"city_name": "Hồ Chí Minh",
+	"city_name":  "Thành phố Hồ Chí Minh",
 	"country_code": "VN",
 	"admin_units": [
 		{ "name": "Phường Thủ Dầu Một", "code": "25747", "level": "Phường" },
@@ -173,3 +173,4 @@
 		{ "name": "Xã Thạnh An", "code": "27676", "level": "Xã" }
 	]
 }
+
