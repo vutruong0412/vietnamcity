@@ -3,6 +3,7 @@
     "city_name":  "Tỉnh Tuyên Quang",
     "country_code":  "VN",
     "admin_units":  [
+        { "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
                         {
                             "name":  "Phường Hà Giang 2",
                             "code":  "00691",

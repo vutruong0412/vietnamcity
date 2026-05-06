@@ -3,6 +3,7 @@
     "city_name":  "Tỉnh Lào Cai",
     "country_code":  "VN",
     "admin_units":  [
+        { "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
                         {
                             "name":  "Phường Lào Cai",
                             "code":  "02647",

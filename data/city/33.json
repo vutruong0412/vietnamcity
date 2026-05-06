@@ -3,6 +3,7 @@
     "city_name":  "Tỉnh Hưng Yên",
     "country_code":  "VN",
     "admin_units":  [
+        { "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
                         {
                             "name":  "Phường Phố Hiến",
                             "code":  "11953",

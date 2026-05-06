@@ -3,6 +3,7 @@
 	"city_name":  "Thành phố Hà Nội",
 	"country_code": "VN",
 	"admin_units": [
+		{ "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
 		{ "name": "Phường Ba Đình", "code": "00004", "level": "Phường" },
 		{ "name": "Phường Ngọc Hà", "code": "00008", "level": "Phường" },
 		{ "name": "Phường Giảng Võ", "code": "00025", "level": "Phường" },

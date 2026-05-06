@@ -3,6 +3,7 @@
     "city_name":  "Tỉnh Ninh Bình",
     "country_code":  "VN",
     "admin_units":  [
+        { "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
                         {
                             "name":  "Phường Phủ Lý",
                             "code":  "13285",

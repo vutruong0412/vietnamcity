@@ -3,6 +3,7 @@
 	"city_name":  "Tỉnh Cao Bằng",
 	"country_code": "VN",
 	"admin_units": [
+		{ "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
 		{ "name": "Phường Thục Phán", "code": "01273", "level": "Phường" },
 		{ "name": "Phường Nùng Trí Cao", "code": "01279", "level": "Phường" },
 		{ "name": "Phường Tân Giang", "code": "01288", "level": "Phường" },

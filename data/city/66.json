@@ -3,6 +3,7 @@
 	"city_name":  "Tỉnh Đắk Lắk",
 	"country_code": "VN",
 	"admin_units": [
+		{ "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
 		{ "name": "Phường Tuy Hòa", "code": "22015", "level": "Phường" },
 		{ "name": "Phường Bình Kiến", "code": "22045", "level": "Phường" },
 		{ "name": "Phường Sông Cầu", "code": "22051", "level": "Phường" },

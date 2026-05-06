@@ -3,6 +3,7 @@
 	"city_name":  "Tỉnh An Giang",
 	"country_code": "VN",
 	"admin_units": [
+		{ "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
 		{ "name": "Phường Bình Đức", "code": "30292", "level": "Phường" },
 		{ "name": "Phường Mỹ Thới", "code": "30301", "level": "Phường" },
 		{ "name": "Phường Long Xuyên", "code": "30307", "level": "Phường" },

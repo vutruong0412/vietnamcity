@@ -3,6 +3,7 @@
     "city_name":  "Tỉnh Lạng Sơn",
     "country_code":  "VN",
     "admin_units":  [
+        { "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
                         {
                             "name":  "Phường Đông Kinh",
                             "code":  "05977",

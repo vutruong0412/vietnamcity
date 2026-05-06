@@ -3,6 +3,7 @@
     "city_name":  "Tỉnh Thanh Hóa",
     "country_code":  "VN",
     "admin_units":  [
+        { "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
                         {
                             "name":  "Phường Hàm Rồng",
                             "code":  "14758",

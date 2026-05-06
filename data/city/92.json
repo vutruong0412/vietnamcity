@@ -3,6 +3,7 @@
 	"city_name":  "Thành phố Cần Thơ",
 	"country_code": "VN",
 	"admin_units": [
+		{ "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
 		{ "name": "Phường Cái Khế", "code": "31120", "level": "Phường" },
 		{ "name": "Phường Ninh Kiều", "code": "31135", "level": "Phường" },
 		{ "name": "Phường Tân An", "code": "31147", "level": "Phường" },

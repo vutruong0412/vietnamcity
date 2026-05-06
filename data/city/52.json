@@ -3,6 +3,7 @@
     "city_name":  "Tỉnh Gia Lai",
     "country_code":  "VN",
     "admin_units":  [
+        { "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
                         {
                             "name":  "Phường Quy Nhơn Bắc",
                             "code":  "21553",

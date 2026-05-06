@@ -3,6 +3,7 @@
 	"city_name":  "Tỉnh Điện Biên",
 	"country_code": "VN",
 	"admin_units": [
+		{ "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
 		{ "name": "Phường Điện Biên Phủ", "code": "03127", "level": "Phường" },
 		{ "name": "Phường Mường Lay", "code": "03151", "level": "Phường" },
 		{ "name": "Xã Sín Thầu", "code": "03158", "level": "Xã" },

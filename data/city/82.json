@@ -3,6 +3,7 @@
     "city_name":  "Tỉnh Đồng Tháp",
     "country_code":  "VN",
     "admin_units":  [
+        { "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
                         {
                             "name":  "Phường Đạo Thạnh",
                             "code":  "28249",

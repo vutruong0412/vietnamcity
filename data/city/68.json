@@ -3,6 +3,7 @@
     "city_name":  "Tỉnh Lâm Đồng",
     "country_code":  "VN",
     "admin_units":  [
+        { "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
                         {
                             "name":  "Phường Mũi Né",
                             "code":  "22918",

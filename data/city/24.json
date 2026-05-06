@@ -3,6 +3,7 @@
 	"city_name":  "Tỉnh Bắc Ninh",
 	"country_code": "VN",
 	"admin_units": [
+		{ "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
 		{ "name": "Phường Bắc Giang", "code": "07210", "level": "Phường" },
 		{ "name": "Phường Đa Mai", "code": "07228", "level": "Phường" },
 		{ "name": "Xã Xuân Lương", "code": "07246", "level": "Xã" },

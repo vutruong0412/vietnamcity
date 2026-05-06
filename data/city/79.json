@@ -3,6 +3,7 @@
 	"city_name":  "Thành phố Hồ Chí Minh",
 	"country_code": "VN",
 	"admin_units": [
+		{ "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
 		{ "name": "Phường Thủ Dầu Một", "code": "25747", "level": "Phường" },
 		{ "name": "Phường Phú Lợi", "code": "25750", "level": "Phường" },
 		{ "name": "Phường Bình Dương", "code": "25760", "level": "Phường" },

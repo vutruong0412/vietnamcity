@@ -3,6 +3,7 @@
 	"city_name":  "Tỉnh Cà Mau",
 	"country_code": "VN",
 	"admin_units": [
+		{ "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
 		{ "name": "Phường Bạc Liêu", "code": "31825", "level": "Phường" },
 		{ "name": "Phường Vĩnh Trạch", "code": "31834", "level": "Phường" },
 		{ "name": "Phường Hiệp Thành", "code": "31840", "level": "Phường" },

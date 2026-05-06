@@ -3,6 +3,7 @@
     "city_name":  "Tỉnh Sơn La",
     "country_code":  "VN",
     "admin_units":  [
+        { "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
                         {
                             "name":  "Phường Tô Hiệu",
                             "code":  "03646",

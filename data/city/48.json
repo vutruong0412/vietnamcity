@@ -3,6 +3,7 @@
 	"city_name":  "Thành phố Đà Nẵng",
 	"country_code": "VN",
 	"admin_units": [
+		{ "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
 		{ "name": "Phường Hải Vân", "code": "20194", "level": "Phường" },
 		{ "name": "Phường Liên Chiểu", "code": "20197", "level": "Phường" },
 		{ "name": "Phường Hòa Khánh", "code": "20200", "level": "Phường" },

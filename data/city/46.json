@@ -3,6 +3,7 @@
     "city_name":  "Thành phố Huế",
     "country_code":  "VN",
     "admin_units":  [
+        { "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
                         {
                             "name":  "Phường Phú Xuân",
                             "code":  "19753",

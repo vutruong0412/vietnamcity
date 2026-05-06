@@ -3,6 +3,7 @@
     "city_name":  "Tỉnh Khánh Hòa",
     "country_code":  "VN",
     "admin_units":  [
+        { "name": "Phường Chưa biết", "code": "00000", "level": "Phường" },
                         {
                             "name":  "Phường Bắc Nha Trang",
                             "code":  "22333",
